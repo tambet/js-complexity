@@ -10,6 +10,10 @@ function duplicate(d, e, f) {
   return d || e || f;
 }
 
+function bad_style() {
+    return 'Yes';
+}
+
 main();
 main2(1, 2, 3);
 duplicate(4, 5, 6);
