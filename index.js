@@ -11,7 +11,7 @@ function duplicate(d, e, f) {
 }
 
 function bad_style() {
-    return 'Yes';
+            return 'Yes';
 }
 
 main();
