@@ -14,6 +14,10 @@ function bad_style() {
     return 'Yes';
 }
 
+function bad_style2() {
+    return 'Yes';
+}
+
 main();
 main2(1, 2, 3);
 duplicate(4, 5, 6);
